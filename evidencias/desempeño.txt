@@ -1,0 +1,5 @@
+Modelo: Mistral 7B - Ollama
+Tiempo promedio por prompt: 
+Uso de CPU: 
+Uso de RAM: 
+Observaciones: 

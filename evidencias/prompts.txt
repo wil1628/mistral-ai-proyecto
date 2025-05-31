@@ -1,0 +1,3 @@
+Prompt 1: Resume en una oración el impacto de la IA en la educación.
+Prompt 2: Corrige el siguiente texto: ‘La tecnologia avanza muy rapido.’
+Prompt 3: Escribe una introducción para un ensayo sobre el cambio climático.
