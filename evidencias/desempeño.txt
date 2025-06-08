@@ -1,5 +1,12 @@
 Modelo: Mistral 7B - Ollama
-Tiempo promedio por prompt: 
-Uso de CPU: 
-Uso de RAM: 
-Observaciones: 
+
+Tiempo promedio por prompt: 5–7 segundos
+
+Uso de CPU:
+- En reposo (sin prompt): 7% – 10%
+- Durante ejecución de prompts: 42% – 49%
+
+Uso de RAM: Aprox. 1.5 GB
+
+Observaciones:
+El modelo se ejecuta de manera estable en un entorno Windows con Ollama, sin bloqueos ni calentamiento anormal. El consumo de recursos es aceptable para tareas de prueba en laptops con al menos 16 GB de RAM.

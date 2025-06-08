@@ -1,3 +1,45 @@
-Prompt 1: Resume en una oración el impacto de la IA en la educación.
-Prompt 2: Corrige el siguiente texto: ‘La tecnologia avanza muy rapido.’
-Prompt 3: Escribe una introducción para un ensayo sobre el cambio climático.
+--- Prompt 1 ---
+¿Qué es la inteligencia artificial?
+
+Respuesta:
+ La inteligencia artificial (IA) es un campo de las ciencias que estudia cómo los ordenadores pueden ser
+programados para simular y realizar tareas que normalmente requieren inteligencia humana, como reconocimiento
+visual, lenguaje, razonamiento, aprendizaje automático o la capacidad de tomar decisiones a partir de datos. El
+objetivo es crear sistemas capaces de resolver problemas y adaptarse al entorno de manera similar a cómo lo hacen
+los seres humanos. La inteligencia artificial se utiliza en una gran variedad de áreas, desde el reconocimiento
+facial hasta el control automático de drones.
+
+--- Prompt 2 ---
+Corrige el siguiente texto: ‘La tecnologia avanza muy rapido.’
+
+Respuesta:
+ 'La tecnología avanza a un ritmo muy rápido.'
+
+El error es en el verbo auxiliar, que debe ser "avanza" en el tiempo presente y no en el presente continuo.
+Además, para ajustar la oración, se deben agregar las palabras "a un ritmo", ya que el significado de la oración
+es que la tecnología avanza muy rápidamente, es decir, con rapidez.
+
+--- Prompt 3 ---
+Escribe una introducción para un ensayo sobre el cambio climático.
+
+Respuesta:
+ El cambio climático es uno de los problemas más urgentes y complejos que enfrentamos en la actualidad. Es el
+resultado del aumento de las concentraciones de gases de efecto invernadero (GEI) en la atmósfera, causadas
+principalmente por la actividad humana. El cambio climático está provocando una serie de impactos sobre nuestro
+planeta y todos los seres vivos que lo habitan, incluyendo aumento de las temperaturas, desbordamiento de ríos,
+glaciarización y desertificación. En este ensayo analizaremos la importancia del cambio climático, su causas y sus
+impactos en el medio ambiente y los seres humanos, además de proponer soluciones para mitigarlo.
+
+--- Prompt de verificación de rendimiento ---
+Dame una lista de 3 ventajas de la inteligencia artificial.
+
+Respuesta:
+1. Eficiencia y productividad: La Inteligencia Artificial (IA) puede procesar gran cantidad de datos y realizar
+análisis en tiempo récord, lo que significa mayor eficiencia en la toma de decisiones y mejores resultados en
+menos tiempo.
+
+2. Automatización de tareas repetitivas: La IA puede automatizar tareas monótonas y repetitivas que requieren
+pocos o ningún juicio humano, lo que ayuda a reducir errores humanos y aumentar la productividad.
+
+3. Disponibilidad continua de servicios: La IA puede funcionar 24/7 sin necesidad de descanso, permitiendo una
+mayor disponibilidad de servicios y soporte técnico a cualquier hora del día.
