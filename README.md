@@ -6,6 +6,6 @@ Este proyecto tiene como objetivo explorar la Inteligencia Artificial utilizando
 
 - Instalación de Ollama
 - Pruebas con prompts
-- Código de inferencia (opcional)
-- Dockerfile (demostrativo)
+- Código de inferencia
+- Dockerfile
 - Evidencia técnica
